@@ -1,2 +1,2 @@
 # TaxAIKnowledgeBase
-An AI Knowledgebase for Chinese Tax Regulations.
+An AI Knowledgebase for Chine	se Tax Regulations.
